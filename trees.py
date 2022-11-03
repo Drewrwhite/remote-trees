@@ -1,2 +1,4 @@
-trees = ["apple", "cedar", "willow", "cyprus", "sequoia", "redwood", "fur"]
-"tree-fact" = "Dendrochronology is the study of tree rings" and "trees are big"
+
+trees = [ "cedar", "willow", "cyprus", "oak", "sequoia", "spruce", "redwood", "fur"]
+treefact = "Dendrochronology is the study of tree rings" and "trees are big"
+
